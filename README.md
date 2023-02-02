@@ -11,7 +11,7 @@ open another terminal to start react
 enter cd recipewebsite
 enter npm start react 
 
-make sure mongodb atlas is connected.
+Login and sign up works when I ensure mongodb atlas is connected.
 
 
 NOTE : i dont know how to deploy the frontend and backend into a hosting service to display it,so you might have to run follow the steps
